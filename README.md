@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+a+Maria!:);Desenvolvedora+de+Software.;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+a+Maria!:);Desenvolvedora+de+Software;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
 </p>
 
 
@@ -37,28 +37,28 @@ Desde que comecei minha jornada no mundo da tecnologia, descobri um grande inter
  
   <img  align="left" 
     alt="HTML"
-    title="HTML" 
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
     
 <img  align="left" 
     alt="HTML"
-    title="HTML" 
+    title="C++"
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
 
   <img align="left" 
     alt="HTML"
-    title="HTML" 
+    title="PHP"
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
     
  <img align="left" 
     alt="HTML"
-    title="HTML" 
+    title="javascript"
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
@@ -72,35 +72,35 @@ Desde que comecei minha jornada no mundo da tecnologia, descobri um grande inter
     
   <img align="left" 
     alt="HTML"
-    title="HTML" 
+    title="React"
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
     
    <img  align="left" 
     alt="Python" 
-    title="Python"
+    title="MYSQL"
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
    
  <img  align="left" 
     alt="Python" 
-    title="Python"
+    title="Typescript"
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
     
    <img  align="left" 
     alt="Python" 
-    title="Python"
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
     
  <img align="left" 
     alt="Python" 
-    title="Python"
+    title="Java"
     width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           
 
@@ -117,6 +117,5 @@ Desde que comecei minha jornada no mundo da tecnologia, descobri um grande inter
 
 
 
-          
-          
+    
           
