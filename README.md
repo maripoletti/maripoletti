@@ -9,7 +9,6 @@ Desde que comecei minha jornada no mundo da tecnologia, descobri um grande inter
 
 📫 *Como me encontrar:*  
 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-polett/) <br>
-[Email](mariapolettidev@gmail.com)
 
 --- 
 ### 🤖 Linguagens e Tecnologias
@@ -94,12 +93,26 @@ Desde que comecei minha jornada no mundo da tecnologia, descobri um grande inter
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=maripoletti&show_icons=true&theme=dracula&include_all_comits=true" />
 
- <img  align="left" 
-    alt="Github stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maripoletti&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"
-    />
 
     
 
+
+
+
+    
+          
+    
+          
+          
+          
+
+          
+          
+
+
+          
+          
+
+          
+          
+          
