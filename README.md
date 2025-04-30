@@ -1,4 +1,9 @@
-# Maria Eduarda Poletti 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+a+Maria!:);Desenvolvedora+de+Software.;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
+</p>
+
 
 **`Desenvolvedora FullStack`**
 
@@ -7,7 +12,6 @@ Me chamo Maria Eduarda Poletti, tenho 19 anos e sou natural do Rio Grande do Sul
 
 Desde que comecei minha jornada no mundo da tecnologia, descobri um grande interesse por desenvolvimento de software, análise de dados, UX/UI e Experiência do Usuário, inteligência artificial e automação de processos. Acredito que a tecnologia tem o poder de transformar o mundo — e quero fazer parte dessa transformação.
 
----
 ###
 
 <div align="left">
@@ -113,4 +117,6 @@ Desde que comecei minha jornada no mundo da tecnologia, descobri um grande inter
 
 
 
+          
+          
           
