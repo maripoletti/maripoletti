@@ -5,7 +5,7 @@
 </p>
 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora de Software`**
 
 Me chamo Maria Eduarda Poletti, tenho 19 anos e sou natural do Rio Grande do Sul, Brasil. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
  Apaixonada por tecnologia, inovação e por resolver problemas de forma criativa e eficiente.
