@@ -41,13 +41,6 @@ Desde que comecei minha jornada no mundo da tecnologia, descobri um grande inter
     width="30px" 
     style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-    
-<img  align="left" 
-    alt="HTML"
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-
 
   <img align="left" 
     alt="HTML"
