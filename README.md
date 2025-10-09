@@ -69,11 +69,6 @@ Desde que comecei minha jornada no mundo da tecnologia, descobri um grande inter
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
    
- <img  align="left" 
-    alt="Python" 
-    title="Typescript"
-    width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
     
    <img  align="left" 
