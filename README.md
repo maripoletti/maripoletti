@@ -81,13 +81,6 @@ Desde que comecei minha jornada no mundo da tecnologia, descobri um grande inter
 <br>
 <br>
 
-### 📊 Estatísticas
-  
-   <img  align="left" 
-    alt="Github stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=maripoletti&show_icons=true&theme=dracula&include_all_comits=true" />
 
 
 
