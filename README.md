@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Maria!+%F0%9F%91%8B;Desenvolvedora+de+Software;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
 </p>
 
-<h2 align="center">👩🏻‍💻 Desenvolvedora de Software</h2>
+<h2 align="center">Desenvolvedora de Software</h2>
 
 <p align="center">
   Estudante de Ciência da Computação • Desenvolvimento de Software • Tecnologia
@@ -22,84 +22,7 @@ Acredito que a tecnologia pode transformar ideias em soluções reais — e esto
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="left">
-  <img
-    alt="HTML5"
-    title="HTML5"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-  />
-
-<img
- alt="CSS3"
- title="CSS3"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
-<img
- alt="PHP"
- title="PHP"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-
-<img
- alt="JavaScript"
- title="JavaScript"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-
-<img
- alt="React"
- title="React"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-
-<img
- alt="Python"
- title="Python"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-<img
- alt="MySQL"
- title="MySQL"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-
-<img
- alt="Git"
- title="Git"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-</p>
-
----
-
-### 🚀 Atualmente estudando
-
-* 💻 Desenvolvimento de Software
-* 🐍 Python
-* ⚛️ React
-* 🗄️ Banco de Dados e SQL
-* 📊 Análise de Dados
-* 🤖 Inteligência Artificial
-* ⚙️ Automação de Processos
+<p align="left"> <img alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> </p>
 
 ---
 
