@@ -103,24 +103,6 @@ Acredito que a tecnologia pode transformar ideias em soluções reais — e esto
 
 ---
 
-### 📌 Projetos
-
-Aqui você encontra alguns dos projetos que venho desenvolvendo durante minha jornada acadêmica e profissional.
-
-🔹 **Projetos de Desenvolvimento Web**
-Aplicações utilizando HTML, CSS, JavaScript, PHP e React.
-
-🔹 **Projetos em C**
-Projetos acadêmicos voltados para lógica de programação e estruturas de dados.
-
-🔹 **Projetos com Banco de Dados**
-Modelagem, consultas SQL e desenvolvimento de aplicações integradas a bancos de dados.
-
-🔹 **Projetos de Interface e UX/UI**
-Interfaces focadas em organização, usabilidade e experiência do usuário.
-
----
-
 ### 📫 Entre em contato
 
 <p align="left">
@@ -132,7 +114,7 @@ Interfaces focadas em organização, usabilidade e experiência do usuário.
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/maria-eduarda-polett/" target="_blank">
+  <a href="https://www.linkedin.com/in/mariapoletti/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
       height="35"
@@ -142,12 +124,3 @@ Interfaces focadas em organização, usabilidade e experiência do usuário.
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariapolettidev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariapolettidev&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariapolettidev&theme=radical" alt="GitHub Streak" />
-</p>
